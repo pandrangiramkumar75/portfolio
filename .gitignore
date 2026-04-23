@@ -1,0 +1,6 @@
+node_modules/
+build/
+stitch_assets/
+*.log
+.DS_Store
+Thumbs.db

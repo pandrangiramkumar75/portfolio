@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Portfolio icon">
+  <rect width="64" height="64" fill="#0f0f0f"/>
+  <rect x="8" y="8" width="48" height="48" fill="#f7f7f5" stroke="#0f0f0f" stroke-width="2"/>
+  <path d="M18 38c5-10 10-15 14-15s9 5 14 15" fill="none" stroke="#bc000a" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="32" cy="24" r="9" fill="none" stroke="#0f0f0f" stroke-width="4"/>
+</svg>
